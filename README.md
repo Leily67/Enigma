@@ -1,11 +1,8 @@
-# My_Vardump
+# ENIGMA
 
 The objective is to develop your enigma to correspond with your allies without fear of your communications being
 communications will be intercepted by the enemy.
 
-
-## TRELLO
-![Logo](https://zupimages.net/up/23/01/zjku.png)
 
 
 ## Description du Sujet
